@@ -1,0 +1,7 @@
+account.json
+terraform.tfstate
+.idea/*
+terraform/terrafom.tfstate
+terraform/terrafom.tfstate.backup
+terraform/.terraform
+.terraform
